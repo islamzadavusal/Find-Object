@@ -1,0 +1,257 @@
+person
+bicycle
+car
+phone
+hand
+cup
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+couch
+potted plant
+bed
+dining table
+toilet
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair dryer
+toothbrush
+table
+lamp
+door
+window
+mirror
+blanket
+pillow
+rug
+fan
+heater
+stove
+washing machine
+dryer
+dishwasher
+cupboard
+drawer
+closet
+bathtub
+shower
+sink
+blender
+mixer
+coffee maker
+toaster oven
+air conditioner
+radiator
+vacuum cleaner
+broom
+mop
+bucket
+trash can
+recycling bin
+pen
+pencil
+notebook
+paper
+calendar
+painting
+picture frame
+statue
+plant
+flower
+bush
+tree
+grass
+mailbox
+fence
+gate
+swing
+slide
+sandbox
+bicycle helmet
+skates
+rollerblades
+camera
+microphone
+headphones
+speaker
+drum
+guitar
+piano
+violin
+flute
+trumpet
+trombone
+saxophone
+harmonica
+accordion
+smartwatch
+e-reader
+drone
+projector
+smart home assistant
+smartphone
+tablet
+game console
+joystick
+mouse pad
+webcam
+printer
+scanner
+router
+modem
+external hard drive
+flash drive
+power bank
+charging cable
+wall charger
+headphones
+earbuds
+Bluetooth speaker
+camera tripod
+action camera
+drones
+VR headset
+smart glasses
+electric scooter
+segway
+hoverboard
+smart lock
+smart thermostat
+security camera
+alarm system
+doorbell camera
+smoke detector
+carbon monoxide detector
+first aid kit
+fire extinguisher
+toolbox
+hammer
+screwdriver
+wrench
+pliers
+tape measure
+level
+saw
+drill
+sander
+paintbrush
+roller
+bucket
+drop cloth
+paint tray
+spackle
+caulk gun
+gardening gloves
+trowel
+pruning shears
+watering can
+hose
+rake
+shovel
+hoe
+wheelbarrow
+compost bin
+birdhouse
+wind chime
+gazing ball
+fountain
+statue
+outdoor heater
+grill
+patio furniture
+umbrella stand
+beach chair
+cooler
+picnic basket
+hammock
+textbook
+workbook
+exercise book
+binder
+ruler
+highlighter
+marker
+eraser
+sharpener
+index cards
+stapler
+paper clip
+folder
+notepad
+calculator
+compass
+protractor
+coffee
+tea
+juice
+soda
+water
+milk
+hot chocolate
+energy drink
+smoothie
